@@ -1,8 +1,8 @@
 # Final groups for the course
 
-## All members should have at least one commit tagged to their user name on github on each projects
-## The teams are now grouped agin in to two one consisted of even and the other odd numbered gropus
-## All the projects will be given by separating the gropus as even and odd
+#### All members should have at least one commit tagged to their user name on github on each projects
+#### The teams are now grouped agin in to two one consisted of even and the other odd numbered gropus
+#### All the projects will be given by separating the gropus as even and odd
 
 
 | Group   | Email                           | Skill Level |
